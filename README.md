@@ -37,3 +37,7 @@ Como foi falado em aula no bootcamp DIO IA Generativa, "com grandes poderes, vê
 A campanha foi literalmente completa e essa integração fez todo o sentido, pois deu utilidade também para os projetos anteriormente apresentados.
 
 Poder transformar esses dados em informação relevante e gerar conhecimento útil para a comunidade geek e aficionados foi bem gratificante, o que tornou o projeto mais legal ainda. 💪
+
+## 📂 Download
+
+[Baixar Planilha](https://github.com/Andy-IA/Planilha-organizada-e-IAs/blob/main/plan%20figuras%20v2.xls)
